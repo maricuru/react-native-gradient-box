@@ -2,11 +2,13 @@
 
 * Component of box with Gradient border
 
+![ScreenShot of GradientBox](https://raw.githubusercontent.com/maricuru/react-native-gradient-box/images/screenshot.png)
+
 ## Supported environment
 
 * Expo
 
-## Use with Expo
+## Using with Expo
 
 ### Install
 
