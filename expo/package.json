@@ -1,0 +1,22 @@
+{
+  "name": "react-native-gradient-box-expo",
+  "version": "0.1.0",
+  "description": "Gradient box component for React Native with Expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maricuru/react-native-gradient-box/expo"
+  },
+  "keywords": [
+    "react-native",
+    "expo"
+  ],
+  "author": "syumai",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
+}
