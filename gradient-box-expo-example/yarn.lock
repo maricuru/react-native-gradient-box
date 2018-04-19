@@ -4843,8 +4843,9 @@ react-native-gesture-handler@1.0.0-alpha.41:
     invariant "^2.2.2"
     prop-types "^15.5.10"
 
-react-native-gradient-box-expo@../expo:
-  version "0.1.0"
+react-native-gradient-box-expo@0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-gradient-box-expo/-/react-native-gradient-box-expo-0.1.1.tgz#72532d1ebb5b9a23765f78ea406d76d634fc7635"
   dependencies:
     prop-types "^15.6.1"
 
