@@ -45,5 +45,6 @@ export default class App extends React.Component {
 * Other props
   * borderWidth (required)
   * borderRadius
+  * backgroundColor
   * containerStyle
   * style
